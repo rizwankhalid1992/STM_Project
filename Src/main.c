@@ -8,7 +8,8 @@ int main(void)
 	SystemClock_Config();
 	while (1)
 	{
-		// Code Line 1 is added
+		// Add code line 1
+
 	}
 
 }
