@@ -1,0 +1,9 @@
+# 1. Ignore the folders you don't want
+Inc/
+Startup/
+
+# 2. Ignore everything inside the Src folder
+Src/*
+
+# 3. But make an exception for main.c
+!Src/main.c
