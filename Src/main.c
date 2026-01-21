@@ -8,8 +8,15 @@ int main(void)
 	SystemClock_Config();
 	while (1)
 	{
+<<<<<<< HEAD
 		// Add code line 1
 
+=======
+		// UART code are added
+		// Line 2 UART code are added
+		// Line 3 UART code are added
+		// Line 4 UART code are added
+>>>>>>> UART-code
 	}
 
 }
